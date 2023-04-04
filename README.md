@@ -2,7 +2,7 @@
 
 ![Windows](https://img.shields.io/badge/Windows%20Server-2019-purple)
 ![Windows](https://img.shields.io/badge/Windows%20Server-2022-purple)
-![Windows](https://img.shields.io/badge/Windows%20Server-2025%20Build%2025324-purple)
+![Windows](https://img.shields.io/badge/Windows%20Server-2025%20&#040;Build%2025324&#041;-purple)
 
 Verwende die template.csv als Vorlage. Aufgebaut ist die Vorlage wiefolgt: 
 
