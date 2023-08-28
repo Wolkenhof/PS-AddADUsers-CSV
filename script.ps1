@@ -26,7 +26,7 @@ Function GenerateStrongPassword ([Parameter(Mandatory=$true)][int]$PasswordLengh
 Import-Module ActiveDirectory
 
 # Lade CSV-Datei in Array
-$ADUsers = Import-Csv $csvfile
+$ADUsers = Import-Csv $csvfile -Delimiter ";"
 
 # Loope durch Array (CSV)
 foreach ($User in $ADUsers) {
